@@ -1,0 +1,131 @@
+.homepage-container{
+  display: flex;
+  flex-direction: column;
+}
+
+.homepage-landing-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 8% 0;
+  border-bottom: 1.5px solid rgba(0,0,0,0.15);
+  box-sizing: border-box;
+}
+
+.homepage-landing-image{
+  width: 45%;
+  padding-left: 10%;
+}
+
+.homepage-landing-title{
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+.homepage-landing-title-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.homepage-landing-text-underline{
+  position: relative;
+  display: inline;
+  background-image: linear-gradient(to right, rgb(246,228,213), rgb(246,228,213));
+  background-position: 2rem 2.4rem;
+  background-repeat: repeat-x;
+  background-size: 10px 15px;
+}
+
+.homepage-landing-subtitle{
+  font-weight: 400;
+  font-size: 1rem;
+  color: #282828;
+}
+
+.homepage-mission-container{
+  padding: 1rem 0;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.homepage-mission-title{
+  width: 85%;
+  font-size: 2.25rem;
+  color: #282828;
+}
+
+.homepage-mission-body-container{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 5rem 0;
+}
+
+.homepage-mission-image{
+  width: 45%;
+  margin-right: calc(var(--body-side-margin) * -1);
+  padding-left: 10%;
+}
+
+.homepage-mission-text-underline{
+  position: relative;
+  display: inline;
+  background-image: linear-gradient(to right, #E5E5E5, #E5E5E5);
+  background-position: 0rem 0.6rem;
+  background-repeat: repeat-x;
+  background-size: 30px 10px;
+  padding-bottom: 1rem;
+  font-weight: 700;
+  color: #282828;
+}
+
+.homepage-card-crop{
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.homepage-mission-body-text{
+  margin-top: 2rem;
+}
+
+.homepage-card-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 21%;
+  max-width: 400px;
+  margin-top: 2rem;
+}
+
+.homepage-cards-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 1rem;
+  margin-bottom: 6rem;
+}
+
+.homepage-card-image{
+  width: 100%;
+  margin: 1rem 0;
+}
+
+.homepage-card-title{
+  font-weight: 400;
+  font-size: 1rem;
+  text-decoration: underline;
+  margin: 0.25rem 0 0.5rem 0;
+}
+
+.homepage-card-description{
+  margin-top: 0.25rem;
+  font-weight: 400;
+  font-size: 0.8rem;
+}

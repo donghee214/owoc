@@ -1,0 +1,26 @@
+.initiatives-container{
+  display: flex;
+  flex-direction: column;
+}
+
+.initiatives-title{
+  font-size: 3rem;
+  padding-bottom: 4rem;
+  border-bottom: 1.5px solid rgba(0,0,0,0.15);
+}
+
+.initiatives-component{
+  padding-bottom: 1rem;
+}
+
+.initiatives-border-bottom{
+  border-bottom: 1.5px solid rgba(0,0,0,0.15)
+}
+
+.initiatives-all :last-child{
+  border-bottom: 0;
+}
+
+.initiatives-component-title{
+  font-size: 2rem;
+}
