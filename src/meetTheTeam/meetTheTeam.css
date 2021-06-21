@@ -1,0 +1,55 @@
+.team-container{
+    padding-top: 2rem;
+}
+
+.team-title{
+    font-size: 3.5rem;
+}
+
+.team-members-container :first-child{
+    margin: 0;
+}
+
+.team-member-container{
+    margin: 0 2rem;
+}
+
+.team-members-container{
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+}
+
+.team-member-image-container{
+    max-width: 270px;
+    min-width: 240px;
+    background-color: #F6E4D5;
+}
+
+.team-body-section{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 3rem;
+}
+
+.team-member-image-main{
+    width: 100%;
+}
+
+.team-member-name{
+    font-size: 1.6rem;
+    font-family: 'EB Garamond';
+    margin: 0.5rem 0;
+    transition: 0.25s linear;
+}
+
+.team-member-title{
+    font-weight: 400;
+    font-size: 1rem;
+    margin: 0.25rem 0;
+}
+
+.team-member-container:hover .team-member-name{
+    color: rgba(0, 0, 0, 0.55);
+    transition: 0s;
+}

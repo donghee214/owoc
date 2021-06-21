@@ -22,7 +22,7 @@ export default ({ nextTitle, nextDescription, linkUri}) => {
           { nextDescription }
         </h5>
       </div>
-      <Link className={"learn-more-link"}>
+      <Link className={"learn-more-link"} to={linkUri}>
         <h4 className={"learn-more-link-text"}>
           Learn More
         </h4>

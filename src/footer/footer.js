@@ -16,20 +16,27 @@ export default () => {
           <h4 className={"footer-text-left"}>
             INITIATIVES 
           </h4>
-          <h4 className={"footer-text-right"}>
-            CURRENT FUNDRAISING
-          </h4>
+          <Link to={"/initiatives"}>
+            <h4 className={"footer-text-right"}>
+              CURRENT FUNDRAISING
+            </h4>
+          </Link>
         </div>
         <div className={"footer-text-container"}>
           <h4 className={"footer-text-left"}>
             ABOUT US
           </h4>
-          <h4 className={"footer-text-right"}>
-            COMMUNITY 
-          </h4>
-          <h4 className={"footer-text-right"}>
-            TEAM
-          </h4>
+          <Link to={"/meet-the-community"}>
+            <h4 className={"footer-text-right"}>
+              COMMUNITY 
+            </h4>   
+          </Link >
+          <Link to={"/meet-the-team"}>
+            <h4 className={"footer-text-right"}>
+              TEAM
+            </h4>
+          </Link>
+
         </div>
         <div className={"footer-bottom-container"}>
           <div className={"footer-bottom-text-container"}>

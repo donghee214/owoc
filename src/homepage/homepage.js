@@ -20,7 +20,11 @@ export default () => {
       <LandingCard />
       <OurMission />
       <HowItWorks />
-      <LearnMore nextTitle={"Current Fundraising Initiatives"} nextDescription={"OWOC is currently working on a number of fundraising initiatives. Please check out our current fundraising events page for more information."}/>
+      <LearnMore 
+        nextTitle={"Current Fundraising Initiatives"}
+        nextDescription={"OWOC is currently working on a number of fundraising initiatives. Please check out our current fundraising events page for more information."}
+        linkUri={"/initiatives"}
+        />
     </div>
   )
 }

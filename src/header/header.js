@@ -11,19 +11,25 @@ import {
 export default () => {
   return (
     <div className={"header-container"}>
-      <img src={logo}/>
+      <Link to={"/"}>
+        <img src={logo}/>
+      </Link>
       <div className={"header-options-container"}>
         <div className={"header-button-dropdown"}>
-          <h4>Initatives</h4>
+          <Link to={"/initiatives"}>
+            <h4>Initatives</h4>
+          </Link>
         </div>
         <div className={"header-button-dropdown"}>
-          <h4>About</h4>
+          <Link to={"/meet-the-team"}>
+            <h4>About</h4>
+          </Link>
         </div>
-        <button className={"header-button"}>
-          <Link>
+        <div className={"header-button"}>
+          <Link to={"/get-in-touch"}>
             <h4 className={"header-button-font"}>Get In Touch</h4>
           </Link>
-        </button>
+        </div>
       </div>
     </div>
   )

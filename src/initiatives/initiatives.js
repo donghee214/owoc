@@ -35,6 +35,7 @@ export default () => {
     mentorsLink: "",
     signupLink: "",
   }]
+
   return(
     <div className={`initiatives-container`}>
       <img src={initiativesImage}/>
@@ -46,7 +47,11 @@ export default () => {
           initiatives.map((initiative) => <InitiativesSection {...initiative}/>)
         }
       </div>
-      <LearnMore nextTitle={"Meet The Community"} nextDescription={"Meet the underprivileged students currently supported by OWOC."}/>
+      <LearnMore
+        nextTitle={"Meet The Community"}
+        nextDescription={"Meet the underprivileged students currently supported by OWOC."}
+        linkUri={"/meet-the-community"}
+        />
     </div>
   )
 }

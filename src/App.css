@@ -24,15 +24,18 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+a{
+  color: #000000;
+  text-decoration: none;
+  transition: 0.25s linear;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+a:hover {
+  color: rgba(0,0,0,0.55);
+  transition: none;
+}
+
+button{
+  text-decoration: none;
+  color: #000000;
 }

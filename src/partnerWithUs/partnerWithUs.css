@@ -1,0 +1,16 @@
+.partner-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.partner-form-title{
+    font-size: 4.5rem;
+    margin-top: 8rem;
+}
+
+.partner-image{
+    max-width: 50%;
+    min-width: 40%;
+    box-sizing: border-box;
+    padding: 3rem 0 3rem 3rem;    
+}

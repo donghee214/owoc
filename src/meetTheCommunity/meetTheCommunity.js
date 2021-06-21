@@ -33,7 +33,7 @@ export default () => {
           commmunity.map((initiative) => <MeetTheCommunityCard {...initiative}/>)
         }
       </div>
-      <LearnMore nextTitle={"Meet The Team"} nextDescription={"Work with us to provide a new level of transparency for a world of shared opportunity"} />
+      <LearnMore nextTitle={"Meet The Team"} nextDescription={"Work with us to provide a new level of transparency for a world of shared opportunity"} linkUri={"/meet-the-team"}/>
     </div>
   )
 }
