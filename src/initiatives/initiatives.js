@@ -38,7 +38,7 @@ export default () => {
 
   return(
     <div className={`initiatives-container`}>
-      <img src={initiativesImage}/>
+      <img src={initiativesImage} className={"initiatives-top-image"}/>
       <h1 className={"initiatives-title"}>
         Current Fundraising Initiatives
       </h1>
