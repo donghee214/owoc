@@ -7,19 +7,19 @@ import "./initiatives.css"
 export default () => {
   const initiatives = [{
     title: "Mock Medical School Interviews",
-    body: "OWOC is offering mock medical school interviews with current medical school students in Western University Schulich School of Medicine. The interviewers are currently in their clerkship year of study and have 2 years of experience conducting mock interviews. Mock interviews will include a debrief session after each mock with your assigned interviewer. Sign up before August 1st 2021 for the early bird price of $30/hour. After August 1st, prices go up to $40/hour.",
+    body: "OWOC is offering mock medical school interviews with current medical school students in Western University Schulich School of Medicine. The interviewers are currently in their clerkship year of study and have 2 years of experience conducting mock interviews. Mock interviews will include a debrief session after each mock with your assigned interviewer. Sign up before August 5th 2021 for the early bird price of $30/hour. After August 5th, prices go up to $40/hour.",
     mentorsLink: "https://drive.google.com/file/d/1OhaKwC8ijvKe29XpU254v0TgL9cDFvtJ/view?usp=sharing",
     signupLink: "https://docs.google.com/forms/u/1/d/18bqSqGC1kutQIyjvh4qtogOw1shYC1iwaJNvmjwcNQA/edit?usp=forms_home&ths=true",
   },
   {
     title: "Medical School Coffee Chats",
-    body: "OWOC is offering coffee chats with current medical students in Western University Schulich School of Medicine. The students are currently in their clerkship year of study and can provide insight on the application process and medical school experience. Sign up before August 1st 2021 for the early bird price of $10/30mins. After August 1st, prices go up to $15/30mins.",
+    body: "OWOC is offering coffee chats with current medical students in Western University Schulich School of Medicine. The students are currently in their clerkship year of study and can provide insight on the application process and medical school experience. Sign up before August 5th 2021 for the early bird price of $10/30mins. After August 5th, prices go up to $15/30mins.",
     mentorsLink: "https://drive.google.com/file/d/1OhaKwC8ijvKe29XpU254v0TgL9cDFvtJ/view?usp=sharing",
     signupLink: "https://docs.google.com/forms/d/1jfIVrk-GXNWOrbOHHbfyN3wFfnH-P1CD1o-pHmxnfQA/edit",
   },
   {
     title: "Tech Industry Networking Coffee Chats",
-    body: "OWOC is offering coffee chats with current SWEs from large tech companies including Google, Microsoft, Citadel, and Shopify. This is a great opportunity for students currently seeking internships and new grad opportunities to network and develop a better understanding of the industry and interview processes. Sign up before July 15th 2021 for the early bird price of $10/30mins. After July 15th, prices go up to $15/30mins.",
+    body: "OWOC is offering coffee chats with current SWEs from large tech companies including Google, Microsoft, Citadel, and Shopify. This is a great opportunity for students currently seeking internships and new grad opportunities to network and develop a better understanding of the industry and interview processes. Sign up before August 6th 2021 for the early bird price of $10/30mins. After August 6th, prices go up to $15/30mins.",
     mentorsLink: "https://drive.google.com/file/d/19HvLd-eyONMkq8blmYv-wgZZUrtSBK7h/view?usp=sharing",
     signupLink: "https://docs.google.com/forms/d/1UL-HaIdLKmicOi-fFtNHUGfeQO4MxHNKNv_vR_S7Xu8/edit",
   },
