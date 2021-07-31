@@ -31,7 +31,7 @@ export default () => {
           </Link>
         </div>
         <div className={"header-button-dropdown"}>
-          <Link to={"/meet-the-team"}>
+          <Link to={"/"}>
             <h4>About</h4>
           </Link>
         </div>
