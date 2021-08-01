@@ -54,4 +54,19 @@
 .footer-bottom-linkedin{
   width: 24px;
   height: 24px;
+  margin-right: 25px;
+}
+
+.footer-bottom-instagram{
+  width: 24px;
+  height: 24px;
+  border-radius: 4px;
+  margin-right: 25px;
+}
+
+.footer-bottom-facebook{
+  width: 24px;
+  height: 24px;
+  border-radius: 4px;
+  margin-right: 25px;
 }
