@@ -1,6 +1,8 @@
 import React from "react";
 import logoIcon from '../assets/images/logo-icon.png'
 import linkedInLogo from "../assets/images/linkedin.png"
+import instagramLogo from "../assets/images/instagram.jpg"
+import facebookLogo from "../assets/images/facebook.png"
 import './footer.css'
 import {
   BrowserRouter as Router,
@@ -51,7 +53,13 @@ export default () => {
               Privacy Policy
             </span>
           </div>
-          <img src={linkedInLogo} className={"footer-bottom-linkedin"}/>
+          <div>
+            <img src={linkedInLogo} className={"footer-bottom-linkedin"}/>
+            <a href="https://www.instagram.com/owoc.community/">
+              <img src={instagramLogo} className={"footer-bottom-instagram"}/>
+            </a>
+            <img src={facebookLogo} className={"footer-bottom-facebook"}/>
+          </div>
         </div>
     </div>
   )
