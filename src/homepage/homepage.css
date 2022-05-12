@@ -129,3 +129,40 @@
   font-weight: 400;
   font-size: 0.8rem;
 }
+
+@media only screen and (max-width: 428px){
+  .homepage-landing-container{
+    flex-direction: column;
+
+  }
+
+  .homepage-mission-body-container{
+
+    flex-direction: column;
+  }
+
+  .homepage-cards-container{
+    flex-direction: column;
+  }
+ 
+  .learn-more-container{
+    flex-direction: column;
+  }
+ 
+  .homepage-mission-image{
+    width: 100%;
+    margin-right: 0;
+    padding-left: 0;
+  }
+
+  .homepage-card-container{
+ 
+    width: 100%;
+   
+  }
+
+  .homepage-landing-image{
+    width: 100%;
+    padding-left: 0%;
+  }
+  }

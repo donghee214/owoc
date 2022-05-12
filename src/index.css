@@ -68,3 +68,12 @@ h4{
 p{
   font-family: 'Work Sans', sans-serif;
 }
+
+
+
+@media only screen and (max-width: 428px){
+  :root {
+    --body-side-margin: 2rem;
+  }
+
+}

@@ -146,3 +146,24 @@ select option{
 }
 
 
+@media only screen and (max-width: 428px){
+
+  .partner-container {
+    flex-direction: column;
+  }
+  
+  .partner-image{
+    padding: 3rem 0 3rem 0rem;
+    max-width: 100%;
+    max-height: 30%;
+  }
+
+  .partner-form-title {
+    font-size: 3rem;
+    margin-top: 0.5rem;
+}
+.header-button{
+  margin-left: 0rem;
+}
+}
+
