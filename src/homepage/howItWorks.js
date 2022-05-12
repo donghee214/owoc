@@ -30,7 +30,7 @@ export default () => {
     }]
 
   return(
-    <div>
+    <div className="how-it-works-container">
       <span className={"homepage-mission-text-underline"}>
         HOW IT WORKS
       </span>

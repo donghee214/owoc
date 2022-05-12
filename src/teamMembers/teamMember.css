@@ -80,3 +80,24 @@
   margin-bottom: 1.25rem;
   margin-top: 0.3rem;
 }
+
+@media only screen and (max-width: 428px){
+.team-member-details-container{
+  flex-direction: column;
+}
+
+.team-member-description{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  min-width: 0px;
+  margin-left: 0rem;
+}
+
+.team-member-image{
+  height: 100%;
+  position: relative;
+  right: 0rem;
+  bottom: 0;
+}
+}

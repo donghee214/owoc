@@ -45,3 +45,15 @@
   border-color: rgba(0, 0, 0, 0.55);
   transition: 0.25s;
 }
+
+@media only screen and (max-width: 428px){
+
+  .header-container{
+    flex-direction: column;
+
+  }
+  
+.header-options-container{
+  flex-direction: column;
+}
+}
