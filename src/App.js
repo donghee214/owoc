@@ -9,6 +9,7 @@ import Header from './header/header'
 import Footer from './footer/footer'
 import Homepage from "./homepage/homepage"
 import Initiatives from "./initiatives/initiatives"
+import Donations from "./donations/donations"
 import MeetTheCommunity from "./meetTheCommunity/meetTheCommunity"
 import MeetTheTeam from "./meetTheTeam/meetTheTeam"
 import TeamMembers from "./teamMembers/teamMembers"
@@ -23,7 +24,8 @@ function App() {
       <Switch>
         <Route path="/partner-with-us" component={PartnerWithUs}/>
         <Route path="/meet-the-team" component={MeetTheTeam}/>
-        <Route path="/initiatives" component={Initiatives}/>
+        {/* <Route path="/initiatives" component={Initiatives}/> */}
+        <Route path="/donations" component={Donations}/>
         {/* <Route path="/meet-the-community" component={MeetTheCommunity}/> */}
         <Route path="/team-members" component={TeamMembers}/>
         <Route path="/get-in-touch" component={PartnerWithUs}/>

@@ -3,6 +3,8 @@ import LearnMore from "../common/learnMore"
 import floraDetail from "../assets/images/flora-detail.png"
 import aliciaDetail from "../assets/images/alicia-detail.png"
 import linkedInLogo from "../assets/images/linkedin.png"
+import Dan from "../assets/images/dan.png"
+import Justin from "../assets/images/justin.png"
 import { useHistory, useLocation } from "react-router-dom";
 import {
   BrowserRouter as Router,
@@ -30,10 +32,27 @@ export default () => {
     name: "Alicia Zheng",
     id: "alicia",
     linkedInUri: "",
-    title: "Vice President",
+    title: "Finance Exec",
     imgSrc: aliciaDetail,
-    description: "Alicia is an accountant analyst and CPA candidate with a firm belief in providing developing communities with the long-term benefits of a right to education. As the VP of OWOC, Alicia is committed to achieving universal primary education, essential for continuous development in youth."
-  }]
+    description: "Alicia is an accountant analyst and CPA candidate with a firm belief in providing developing communities with the long-term benefits of a right to education. Alicia is committed to achieving universal education, essential for continuous development in youth."
+  },
+  {
+    name: "Justin Mulroney",
+    id: "multoeny",
+    linkedInUri: "",
+    title: "Web Developer",
+    imgSrc: Justin,
+    description: "Justin is a full stack developer with a background in finance and economics. He strongly believes that quality education is a necessity that all students deserve."
+  },
+  {
+    name: "Dan Kim",
+    id: "dan",
+    linkedInUri: "",
+    title: "Web Developer",
+    imgSrc: Dan,
+    description: "Dan is a full stack developer with a degree in mechanical engineering. Through his work with OWOC, Dan hopes to address and spread awareness to global educational inequality issues."
+  },
+]
 
   const selectedMember = members.find((member) => member.id === id)
   

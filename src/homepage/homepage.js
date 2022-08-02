@@ -21,9 +21,9 @@ export default () => {
       <OurMission />
       <HowItWorks />
       <LearnMore 
-        nextTitle={"Current Fundraising Initiatives"}
-        nextDescription={"OWOC is currently working on a number of fundraising initiatives. Please check out our current fundraising events page for more information."}
-        linkUri={"/initiatives"}
+        nextTitle={"Donation Impact"}
+        nextDescription={"Learn how we raise and use donations."}
+        linkUri={"/donations"}
         />
     </div>
   )

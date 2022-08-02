@@ -18,9 +18,9 @@ export default () => {
           <h4 className={"footer-text-left"}>
             INITIATIVES 
           </h4>
-          <Link to={"/initiatives"}>
+          <Link to={"/donations"}>
             <h4 className={"footer-text-right"}>
-              CURRENT FUNDRAISING
+              DONATION IMPACT
             </h4>
           </Link>
         </div>
@@ -28,11 +28,11 @@ export default () => {
           <h4 className={"footer-text-left"}>
             ABOUT US
           </h4>
-          <Link to={"/meet-the-community"}>
+          {/* <Link to={"/meet-the-community"}>
             <h4 className={"footer-text-right"}>
               COMMUNITY 
             </h4>   
-          </Link >
+          </Link > */}
           <Link to={"/meet-the-team"}>
             <h4 className={"footer-text-right"}>
               TEAM

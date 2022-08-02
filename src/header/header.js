@@ -15,16 +15,21 @@ export default () => {
         <img src={logo}/>
       </Link>
       <div className={"header-options-container"}>
-        <div className={"header-button-dropdown"}>
+        {/* <div className={"header-button-dropdown"}>
           <Link to={"/initiatives"}>
             <h4>Fundraising Initatives</h4>
           </Link>
-        </div>
+        </div> */}
         {/* <div className={"header-button-dropdown"}>
           <Link to={"/meet-the-community"}>
             <h4>Students We Support</h4>
           </Link>
         </div> */}
+        <div className={"header-button-dropdown"}>
+          <Link to={"/donations"}>
+            <h4>Donation Impact</h4>
+          </Link>
+        </div>
         <div className={"header-button-dropdown"}>
           <Link to={"/meet-the-team"}>
             <h4>OWOC Team</h4>

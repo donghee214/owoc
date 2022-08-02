@@ -1,9 +1,12 @@
 .team-container{
     padding-top: 2rem;
+    flex-direction: column;
+    display: flex;
 }
 
 .team-title{
     font-size: 3.5rem;
+    margin-bottom: 1rem;
 }
 
 .team-members-container :first-child{
@@ -12,12 +15,31 @@
 
 .team-member-container{
     margin: 0 2rem;
+    width: 270px;
+}
+
+.regular-members-container{
+    cursor: pointer;
+    /* margin: 0 2rem; */
+    margin-top: 3rem;
+    display: flex;
+
+}
+
+.regular-members-container :first-child{
+    margin: 0;
+}
+
+.exec-container{
+    display: flex;
+    justify-content: space-between;
 }
 
 .team-members-container{
     display: flex;
     flex-direction: row;
     cursor: pointer;
+    flex-wrap: wrap;
 }
 
 .team-member-image-container{
@@ -30,6 +52,10 @@
     display: flex;
     flex-direction: row;
     padding-bottom: 3rem;
+}
+
+.team-body-text-container{
+    width: 50%;
 }
 
 .team-member-image-main{
@@ -71,5 +97,20 @@
     .team-body-section{
         flex-direction: column;
     }
+
+    .regular-members-container{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        margin-top: 0;
+    }
+
+    .team-body-text-container{
+        text-align: center;
+        display: flex;
+        width: 100%;
+        margin-top: 2rem;
+    }
+  
    
 }

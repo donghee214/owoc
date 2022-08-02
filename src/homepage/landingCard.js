@@ -15,7 +15,7 @@ export default () => {
           Cultivating Communities To <span className={"homepage-landing-text-underline"}>Support Student Success</span>
         </h1>
         <h4 className={"homepage-landing-subtitle"}>
-        Fund the education and improve the quality of life of children around the world.
+        Fund the education and improve the quality of life of underprivileged students in China.
         </h4>
       </div>
       <img src={landingImage} className={"homepage-landing-image"}/>

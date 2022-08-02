@@ -11,7 +11,7 @@ export default () => {
   return(
     <div className={"homepage-mission-container"}>
       <h1 className={"homepage-mission-title"}>
-        Donations fund the education and quality of life for the students in our community. Follow along to see how you can make a meaningful impact.
+      Fund the education and improve the quality of life of underprivileged students in China
       </h1>
       <div className={"homepage-mission-body-container"}>
         <div>
@@ -19,7 +19,13 @@ export default () => {
             OUR MISSION
           </span>
           <p className={"homepage-mission-body-text"}>
-            Supporting the dreams of under-privileged youth around the world, helping raise them to their full potential through the funding of their education and improvements to their quality of life. In addition to supporting underprivileged youth, OWOC aims to create leadership opportunities for Canadian highschool and university undergraduate and postgraduate students. Thus, OWOC’s donations come from fundraising initiatives organized by canadian students, connecting them to their global peers and helping them build communication, teamwork, creative thinking and problem solving skills. <br/><br/>We believe that the world is one community and wants to empower youth to uplift their peers across the globe.
+           OWOC’s mission is to support the dreams of underprivileged students in China as we believe students should have the right to fully pursue their dreams without constraints. We strive to raise these students to their full potential through the funding of their education and improvements to their quality of life. 
+           <br />
+           <br />
+           In addition to supporting underprivileged Chinese students, OWOC aims to create leadership opportunities for Canadian highschool and university students. Thus, OWOC’s donations come from fundraising initiatives organized by Canadian students, connecting them to their global peers and helping them build communication, teamwork, creative thinking and problem solving skills. 
+           <br />
+           <br />
+           We believe that the world is one community and wants to empower youth to uplift their peers across the globe.
           </p>
         </div>
         <img src={ourMission} className={"homepage-mission-image"}/>
