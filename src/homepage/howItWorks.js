@@ -10,13 +10,13 @@ export default () => {
   const cards = [
     {
       imgSrc: hiw1,
-      title: "Meet a student in need",
-      description: "Meet an underprivileged student whose life could be changed with a donation."
+      title: "A student joins OWOC",
+      description: "OWOC works with local schools and public welfare services to identify underprivileged students that need support in order to thrive in their education and pursue their dreams."
     },
     {
       imgSrc: hiw2,
-      title: "The student joins OWOC",
-      description: "The student is introduced to OWOC through the local government social services and/or the school board and is offered financial support."
+      title: "Get to know the student in need",
+      description: "Through discussions with the students and their families, OWOC works with public welfare services and/or the student’s school to determine how best to support the student’s needs."
     },
     {
       imgSrc: hiw3,
@@ -25,8 +25,8 @@ export default () => {
     },
     {
       imgSrc: hiw4,
-      title: "We keep you updated",
-      description: "The student’s profile is updated after each donation, so you know how your donation impacted their life."
+      title: "Student Support is Delivered ",
+      description: "Donations from various fundraising events are consolidated and used to buy provisions for the underprivileged students based on the needs assessment conducted of their circumstances. \n We want you to know how your donations have impacted the lives of these students so our website and social media will be updated after each of these large scale donations."
     }]
 
   return(

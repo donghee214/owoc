@@ -33,14 +33,15 @@ export default () => {
           <ImageGallery 
             items={images}
             showPlayButton={false}
+            additionalClass={"donations-gallery"}
             showBullets
             showIndex
           />
           <h1 className={"homepage-landing-title"}>
-            OWOC has raised <span className={"homepage-landing-text-underline"}>$2100</span> as of <span className={"homepage-landing-text-underline"}>{getDate()}</span>.
+            OWOC has raised <span className={"homepage-landing-text-underline"}>$7100</span> as of <span className={"homepage-landing-text-underline"}>{getDate()}</span>.
           </h1>
           <p className={"photo-gallery-subtext"}>
-            Check out some photos on how we got there!
+            See where the donations go!
           </p>
         </div>
       </div>
@@ -63,7 +64,7 @@ export default () => {
             Donations
           </h1>
           <p>
-            We’ve been able to provide running shoes, stationary, sports and recreational equipment, school uniforms, and lunch fees for 9 underprivileged students from grades 3 to 11, Yang Fei, Zhou Yi, Wu Wei, Lin Hong, Qiu Hao, Shen Yu, Ni Nan, Lin Xuan, and Chen Wei Ming.
+            We’ve been able to provide running shoes, stationary, sports and recreational equipment, school uniforms, and lunch fees for 30 underprivileged students from grades 3 to 11.
           </p>
         </div>
         <div className={`initiatives-component initiatives-border-bottom`}>
