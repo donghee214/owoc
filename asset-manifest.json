@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.3520cbb9.chunk.css",
-    "main.js": "./static/js/main.a3c87065.chunk.js",
-    "main.js.map": "./static/js/main.a3c87065.chunk.js.map",
+    "main.css": "./static/css/main.502f0256.chunk.css",
+    "main.js": "./static/js/main.0f81ff7b.chunk.js",
+    "main.js.map": "./static/js/main.0f81ff7b.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.adc5497f.js",
     "runtime-main.js.map": "./static/js/runtime-main.adc5497f.js.map",
     "static/css/2.a4070788.chunk.css": "./static/css/2.a4070788.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.ea1b3e79.chunk.js.map": "./static/js/3.ea1b3e79.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.a4070788.chunk.css.map": "./static/css/2.a4070788.chunk.css.map",
-    "static/css/main.3520cbb9.chunk.css.map": "./static/css/main.3520cbb9.chunk.css.map",
+    "static/css/main.502f0256.chunk.css.map": "./static/css/main.502f0256.chunk.css.map",
     "static/js/2.e53eb210.chunk.js.LICENSE.txt": "./static/js/2.e53eb210.chunk.js.LICENSE.txt",
     "static/media/Alicia.8a507769.png": "./static/media/Alicia.8a507769.png",
     "static/media/Axel.473f7ea0.png": "./static/media/Axel.473f7ea0.png",
@@ -23,14 +23,14 @@
     "static/media/donations.29a3f724.png": "./static/media/donations.29a3f724.png",
     "static/media/flora-detail.555bed18.png": "./static/media/flora-detail.555bed18.png",
     "static/media/getInTouch.8a51854b.png": "./static/media/getInTouch.8a51854b.png",
-    "static/media/hiw1.d175eb6e.png": "./static/media/hiw1.d175eb6e.png",
-    "static/media/hiw2.8b032265.png": "./static/media/hiw2.8b032265.png",
+    "static/media/hiw1.21415bcc.png": "./static/media/hiw1.21415bcc.png",
+    "static/media/hiw2.d175eb6e.png": "./static/media/hiw2.d175eb6e.png",
     "static/media/hiw3.f7ed0aac.png": "./static/media/hiw3.f7ed0aac.png",
     "static/media/hiw4.b64c0980.png": "./static/media/hiw4.b64c0980.png",
     "static/media/initiativesImage.05eb1210.png": "./static/media/initiativesImage.05eb1210.png",
     "static/media/instagram.3f0bff0d.jpg": "./static/media/instagram.3f0bff0d.jpg",
     "static/media/justin.9d2495e9.png": "./static/media/justin.9d2495e9.png",
-    "static/media/landingImage.dd32b19d.png": "./static/media/landingImage.dd32b19d.png",
+    "static/media/landingImage.b699858d.png": "./static/media/landingImage.b699858d.png",
     "static/media/looking-forward.22beb27b.png": "./static/media/looking-forward.22beb27b.png",
     "static/media/ourMission.3720b6ad.png": "./static/media/ourMission.3720b6ad.png",
     "static/media/partnership.f9d07a05.png": "./static/media/partnership.f9d07a05.png"
@@ -39,7 +39,7 @@
     "static/js/runtime-main.adc5497f.js",
     "static/css/2.a4070788.chunk.css",
     "static/js/2.e53eb210.chunk.js",
-    "static/css/main.3520cbb9.chunk.css",
-    "static/js/main.a3c87065.chunk.js"
+    "static/css/main.502f0256.chunk.css",
+    "static/js/main.0f81ff7b.chunk.js"
   ]
 }
