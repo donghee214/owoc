@@ -38,7 +38,7 @@ export default () => {
             showIndex
           />
           <h1 className={"homepage-landing-title"}>
-            OWOC has raised <span className={"homepage-landing-text-underline"}>$7100</span> as of <span className={"homepage-landing-text-underline"}>{getDate()}</span>.
+            OWOC has raised <span className={"homepage-landing-text-underline"}>$10,200</span> as of <span className={"homepage-landing-text-underline"}>{getDate()}</span>.
           </h1>
           <p className={"photo-gallery-subtext"}>
             See where the donations go!
@@ -64,7 +64,7 @@ export default () => {
             Donations
           </h1>
           <p>
-            We’ve been able to provide running shoes, stationary, sports and recreational equipment, school uniforms, and lunch fees for 30 underprivileged students from grades 3 to 11.
+            We’ve been able to provide running shoes, stationary, sports and recreational equipment, school uniforms, and lunch fees for 40 underprivileged students from grades 3 to 11.
           </p>
         </div>
         <div className={`initiatives-component initiatives-border-bottom`}>
