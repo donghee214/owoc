@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.502f0256.chunk.css",
-    "main.js": "./static/js/main.0f81ff7b.chunk.js",
-    "main.js.map": "./static/js/main.0f81ff7b.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.adc5497f.js",
-    "runtime-main.js.map": "./static/js/runtime-main.adc5497f.js.map",
-    "static/css/2.a4070788.chunk.css": "./static/css/2.a4070788.chunk.css",
-    "static/js/2.e53eb210.chunk.js": "./static/js/2.e53eb210.chunk.js",
-    "static/js/2.e53eb210.chunk.js.map": "./static/js/2.e53eb210.chunk.js.map",
-    "static/js/3.ea1b3e79.chunk.js": "./static/js/3.ea1b3e79.chunk.js",
-    "static/js/3.ea1b3e79.chunk.js.map": "./static/js/3.ea1b3e79.chunk.js.map",
+    "main.css": "./static/css/main.31a73763.chunk.css",
+    "main.js": "./static/js/main.051ef08e.chunk.js",
+    "main.js.map": "./static/js/main.051ef08e.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.194d66dc.js",
+    "runtime-main.js.map": "./static/js/runtime-main.194d66dc.js.map",
+    "static/css/2.6cd54866.chunk.css": "./static/css/2.6cd54866.chunk.css",
+    "static/js/2.6f20f17c.chunk.js": "./static/js/2.6f20f17c.chunk.js",
+    "static/js/2.6f20f17c.chunk.js.map": "./static/js/2.6f20f17c.chunk.js.map",
+    "static/js/3.521faefd.chunk.js": "./static/js/3.521faefd.chunk.js",
+    "static/js/3.521faefd.chunk.js.map": "./static/js/3.521faefd.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/2.a4070788.chunk.css.map": "./static/css/2.a4070788.chunk.css.map",
-    "static/css/main.502f0256.chunk.css.map": "./static/css/main.502f0256.chunk.css.map",
-    "static/js/2.e53eb210.chunk.js.LICENSE.txt": "./static/js/2.e53eb210.chunk.js.LICENSE.txt",
+    "static/css/2.6cd54866.chunk.css.map": "./static/css/2.6cd54866.chunk.css.map",
+    "static/css/main.31a73763.chunk.css.map": "./static/css/main.31a73763.chunk.css.map",
+    "static/js/2.6f20f17c.chunk.js.LICENSE.txt": "./static/js/2.6f20f17c.chunk.js.LICENSE.txt",
     "static/media/Alicia.8a507769.png": "./static/media/Alicia.8a507769.png",
     "static/media/Axel.473f7ea0.png": "./static/media/Axel.473f7ea0.png",
     "static/media/Flora.8b10b4c8.png": "./static/media/Flora.8b10b4c8.png",
@@ -36,10 +36,10 @@
     "static/media/partnership.f9d07a05.png": "./static/media/partnership.f9d07a05.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.adc5497f.js",
-    "static/css/2.a4070788.chunk.css",
-    "static/js/2.e53eb210.chunk.js",
-    "static/css/main.502f0256.chunk.css",
-    "static/js/main.0f81ff7b.chunk.js"
+    "static/js/runtime-main.194d66dc.js",
+    "static/css/2.6cd54866.chunk.css",
+    "static/js/2.6f20f17c.chunk.js",
+    "static/css/main.31a73763.chunk.css",
+    "static/js/main.051ef08e.chunk.js"
   ]
 }
